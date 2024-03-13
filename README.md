@@ -4,7 +4,7 @@
 This Python program simulates a turtle race using the Turtle module. Users can place bets on which turtle they think will win the race by entering a color. The turtles move randomly across the screen, and the first turtle to reach the finish line (x-coordinate of 350) determines the winner.
 
 ## Usage
-1. Run the `turtle_race.py` script using Python.
+1. Run the e.g.`turtle_race.py` script using Python.
 2. The program prompts the user to enter their bet by specifying the color of the turtle they think will win.
 3. Once the user has placed their bet, the race begins.
 4. Turtles move randomly across the screen.
